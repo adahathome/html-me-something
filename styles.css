@@ -2,10 +2,13 @@ div {
     margin: 20px;
     text-align: center;
     padding: 30px;
+    font-size: 2.5vw;
 
 }
 .title {
     text-transform: capitalize;
+    color: darkslategrey;
+    font-size: 7vw;
     font-family: 
     Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -16,7 +19,7 @@ div {
     color: ghostwhite;
 }
 .boy {
-    color: cornflowerblue;
+    color: lightblue;
 }
 .box {
     background: 3rem, lavender;
