@@ -1,22 +1,29 @@
-div {
+.info {
     margin: 20px;
     text-align: center;
     padding: 30px;
     font-size: 2.5vw;
+    line-height: 4vw;
+    filter: brightness(100%);
+    font-family: sans-serif;
+    background-color: black;
+    border-radius: 10vw;
 
 }
 .title {
     text-transform: capitalize;
     color: darkslategrey;
     font-size: 7vw;
+    
+    text-align: center;
     font-family: 
     Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .girl {
-    color: pink;
+    color: violet;
 }
 .neutral {
-    color: ghostwhite;
+    color: ivory;
 }
 .boy {
     color: lightblue;
@@ -24,9 +31,13 @@ div {
 .box {
     background: 3rem, lavender;
 }
-.backdrop {
+body {
     background-image: url('./images/LakeMitch.jpg');
     width: 100%;
     align-self: center;
-
+    /*filter: brightness(50%);*/
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+    
 }
