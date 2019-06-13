@@ -1,5 +1,29 @@
 div {
     margin: 20px;
     text-align: center;
-    
+    padding: 30px;
+
+}
+.title {
+    text-transform: capitalize;
+    font-family: 
+    Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.girl {
+    color: pink;
+}
+.neutral {
+    color: ghostwhite;
+}
+.boy {
+    color: cornflowerblue;
+}
+.box {
+    background: 3rem, lavender;
+}
+.backdrop {
+    background-image: url('./images/LakeMitch.jpg');
+    width: 100%;
+    align-self: center;
+
 }
