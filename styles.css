@@ -10,9 +10,9 @@
     border-radius: 10vw;
 
 }
-.title {
+#title {
     text-transform: capitalize;
-    color: darkslategrey;
+    color: slategrey;
     font-size: 7vw;
     
     text-align: center;
