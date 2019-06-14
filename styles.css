@@ -6,7 +6,7 @@
     line-height: 4vw;
     filter: brightness(100%);
     font-family: sans-serif;
-    background-color: black;
+    background-color:plum;
     border-radius: 10vw;
 
 }
@@ -20,7 +20,7 @@
     Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .girl {
-    color: violet;
+    color: rgb(170, 30, 170);
 }
 .neutral {
     color: ivory;
@@ -43,7 +43,7 @@ body {
 }
 button {
     border-radius: 5rem;
-    background-color: blue;
+    background-color: rgb(62, 62, 129);
     text-transform: uppercase;
     text-align: center;
     height:20px; 
